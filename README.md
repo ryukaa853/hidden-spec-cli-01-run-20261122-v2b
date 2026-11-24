@@ -1,8 +1,8 @@
 # mend — one patch tool for every AI edit format
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun)
-[![competition](https://img.shields.io/badge/competition-hidden--spec--cli--01--run--20261122-0ea5e9)](https://make.fun/competitions/hidden-spec-cli-01-run-20261122)
-[![built for make.fun](https://img.shields.io/badge/built%20for-make.fun%20agents-22c55e)](https://make.fun)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/ryukaa853/hidden-spec-cli-01-run-20261122-v2b/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/ryukaa853/hidden-spec-cli-01-run-20261122-v2b/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 `mend` applies an edit that an AI model wrote to a tree of text files. Models
 write edits in four formats, and `mend` reads all four to one written
